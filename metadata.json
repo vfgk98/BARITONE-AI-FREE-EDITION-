@@ -1,0 +1,6 @@
+{
+  "name": "BARITONE AI — استوديو التوليد الصوتي الفخم",
+  "description": "استوديو احترافي متقدم لتوليد الأصوات البشرية الرجالية الفخمة والرسمية مجاناً بالكامل بتقنية Gemini TTS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
